@@ -10,3 +10,4 @@ Cleanup plan:
 - Get rid of all caps in titles
 - Standardize dates
 - Standardize dimensions
+- Reconcile subjects
